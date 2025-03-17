@@ -3,8 +3,8 @@
 ```
  ----------------------------------------------------
 |                                                    |
-| That's a crooked tree. We'll send him to           |
-| Washington.                                        |
+| Remember how free clouds are. They just lay around |
+| in the sky all day long.                           |
 |                                                    |
  ----------------------------------------------------
       \
@@ -43,6 +43,5 @@
                         .:+++++`          `` .```      ``-:/::::`
                           .://`        `  .` `         `.-::/:::.
                             ``            `.`     ``  ``.--:::--.
-
 
 ```
