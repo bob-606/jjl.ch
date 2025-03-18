@@ -3,8 +3,8 @@
 ```
  ----------------------------------------------------
 |                                                    |
-| Remember how free clouds are. They just lay around |
-| in the sky all day long.                           |
+| You can do anything here — the only prerequisite   |
+| is that it makes you happy.                        |
 |                                                    |
  ----------------------------------------------------
       \
@@ -43,4 +43,5 @@
                         .:+++++`          `` .```      ``-:/::::`
                           .://`        `  .` `         `.-::/:::.
                             ``            `.`     ``  ``.--:::--.
+
 ```
