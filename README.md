@@ -3,8 +3,8 @@
 ```
  ----------------------------------------------------
 |                                                    |
-| You can do anything here — the only prerequisite   |
-| is that it makes you happy.                        |
+| If we're going to have animals around we all have  |
+| to be concerned about them and take care of them.  |
 |                                                    |
  ----------------------------------------------------
       \
@@ -43,5 +43,4 @@
                         .:+++++`          `` .```      ``-:/::::`
                           .://`        `  .` `         `.-::/:::.
                             ``            `.`     ``  ``.--:::--.
-
 ```
