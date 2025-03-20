@@ -3,8 +3,8 @@
 ```
  ----------------------------------------------------
 |                                                    |
-| If we're going to have animals around we all have  |
-| to be concerned about them and take care of them.  |
+| Water's like me. It's lazy. Boy, it always looks   |
+| for the easiest way to do things.                  |
 |                                                    |
  ----------------------------------------------------
       \
