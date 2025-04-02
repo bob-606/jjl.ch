@@ -3,8 +3,8 @@
 ```
  ----------------------------------------------------
 |                                                    |
-| If you do too much, it's going to lose its         |
-| effectiveness.                                     |
+| Talent is a pursued interest. Anything that you're |
+| willing to practice, you can do.                   |
 |                                                    |
  ----------------------------------------------------
       \
