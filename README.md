@@ -45,12 +45,13 @@
 ```
 
 ```
- ----------------------------------------------------
-|                                                    |
-| Talent is a pursued interest. Anything that you're |
-| willing to practice, you can do.                   |
-|                                                    |
- ----------------------------------------------------
+ ------------------------------------------
+|                                          |
+| Talent is a pursued interest.            |
+| Anything that you'rewilling to practice, |
+| you can do.                              |
+|                                          |
+ ------------------------------------------
       \
        \
         \        
