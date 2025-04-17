@@ -1,12 +1,12 @@
 # jjl.ch
 
 ```
- ----------------------------------------------------
-|                                                    |
-| The secret to doing anything is believing that you |
-| can do it.                                         |
-|                                                    |
- ----------------------------------------------------
+ ----------------------------------
+|                                  |
+| The secret to doing anything is  |
+| believing that you can do it.    |
+|                                  |
+ ----------------------------------
       \
        \
         \        
